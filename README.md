@@ -1,6 +1,6 @@
-# SQL Elementar ATERA
+# SQL Elementar ATER
 
 Esse repositório tem como objetivo listar os conceitos elementares do SQL, usando 
-a métodologia ATERA (Aula, Teoria, Exercício, Revisão, Autodidata).
+a métodologia ATER (Aula, Teoria, Exercício, Revisão).
 
 Repositório criado para fins de estudo pessoal e fixação de conteúdo.
