@@ -1,4 +1,4 @@
-# Aulas 
+# Aula
 
 - [Qual a diferença entre INNER e LEFT JOIN? | CreateSe](https://www.youtube.com/watch?v=iaem9hrPNeo)
     - Inner join vai trazer os resultados que existem nas duas tabelas 
